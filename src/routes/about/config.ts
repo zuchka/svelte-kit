@@ -3,6 +3,6 @@ export const CLIENT_ID = "625d5274-1c35-4cf9-bcff-738685558eb8" // this is mine 
 export const FHIR_BASE_URL = "https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/R4"
 export const SMART_AUTH_URL = "https://fhir.epic.com/interconnect-fhir-oauth/oauth2/authorize"
 export const SMART_TOKEN_URL = "https://fhir.epic.com/interconnect-fhir-oauth/oauth2/token"
-export const REDIRECT_URL = 'https://em.doctor/about'
+export const REDIRECT_URL = 'https://em.doctor/'
 export const CODE_VERIFIER_LOCAL_STORAGE_KEY = 'smart_code_verifier'
 export const TOKEN_RESPONSE_LOCAL_STORAGE_KEY = 'smart_token_response'
